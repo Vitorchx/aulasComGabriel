@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class crescenteDecrescente {
+
+	public static void main(String[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+
+		 int x = scanner.nextInt();
+         int y = scanner.nextInt();
+	    while (true) {
+           
+           if (x == y) return;
+           else( x > y){
+        	   System.out.println("Crescente");
+        	   
+           }
+           if(x < y) {
+        	   System.out.println("Descerescente");
+           }
+        
+	
+			
+		}
+
+		
+	}
+}
