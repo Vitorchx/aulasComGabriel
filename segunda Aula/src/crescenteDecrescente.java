@@ -18,9 +18,9 @@ public class crescenteDecrescente {
 			x = scanner.nextInt();
 			y = scanner.nextInt();
 			
-			scanner.close();
+		
 
 		}
-
+		scanner.close();
 	}
 }
