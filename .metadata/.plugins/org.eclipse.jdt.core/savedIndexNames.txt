@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+D:\repositorios\aulasComGabriel\.metadata\.plugins\org.eclipse.jdt.core
-2020368095.index
-1865797976.index
-1568862695.index
